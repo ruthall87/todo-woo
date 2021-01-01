@@ -22,7 +22,7 @@ SECRET_KEY = '_jjhm#&qjqbm_qula%xs2(0&^qwai@2c%au&4z57%g+=-lsbno'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://git.heroku.com/todowoo2.git', '127.0.0.1:8000']
 
 
 # Application definition
